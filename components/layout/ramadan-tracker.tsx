@@ -3,7 +3,6 @@
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useTranslations } from 'next-intl';
 import { Calendar, BookOpen, BarChart3, Award } from 'lucide-react';
-import { Card } from '@/components/ui/card';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import {
   WorshipStats,
@@ -15,7 +14,6 @@ import { RamadanJourney } from '@/components/features/journey/ramadan-journey';
 import { AchievementBadges } from '@/components/features/achievements';
 import { getCurrentHijriDate } from '@/lib/date-utils';
 import { useRamadanStore } from '@/lib/store';
-import { motion, AnimatePresence } from 'framer-motion';
 import { RAMADAN_DUAS, DUA_ROTATION_INTERVAL } from '@/lib/constants/duas';
 import { Header } from '@/components/layout/header';
 import { useLocale } from 'next-intl';
