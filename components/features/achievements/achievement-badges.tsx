@@ -130,7 +130,6 @@ export default function AchievementBadges() {
 
   return (
     <div className={locale === 'ar' ? 'rtl' : 'ltr'}>
-      <h2 className='text-2xl font-bold mb-6 text-center'>{t('title')}</h2>
 
       <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4'>
         {achievements.map((achievement, index) => (
