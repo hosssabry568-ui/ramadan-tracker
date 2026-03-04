@@ -411,5 +411,14 @@
     "buy_me_coffee": "Offrez-moi un café",
     "developed_by": "Développé avec",
     "portfolio": "Portfolio"
+  },
+  "Share": {
+    "button": "Partager le bien",
+    "title": "Partagez le bien avec vos proches 💚",
+    "description": "Aidez les autres à suivre leurs adorations pendant le Ramadan",
+    "hadith": "\"Celui qui guide vers le bien est comme celui qui le fait\"",
+    "hadith_source": "Rapporté par Tirmidhi",
+    "share_text": "🌙 Ramadan Tracker - Suivez vos prières, la lecture du Coran et vos bonnes actions pendant le Ramadan. Essayez-le maintenant !",
+    "copy": "Copier"
   }
 }

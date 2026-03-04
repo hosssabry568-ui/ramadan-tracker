@@ -412,5 +412,14 @@
     "buy_me_coffee": "Buy me a coffee",
     "developed_by": "Developed with",
     "portfolio": "Portfolio"
+  },
+  "Share": {
+    "button": "Share the Good",
+    "title": "Share the Good with Your Loved Ones 💚",
+    "description": "Help others track their worship during Ramadan",
+    "hadith": "\"The one who guides to good is like the one who does it\"",
+    "hadith_source": "Narrated by Tirmidhi",
+    "share_text": "🌙 Ramadan Tracker - Track your prayers, Quran reading, and good deeds during Ramadan. Try it now!",
+    "copy": "Copy"
   }
 }

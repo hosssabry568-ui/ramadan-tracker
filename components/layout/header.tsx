@@ -5,6 +5,7 @@ import { Calendar } from 'lucide-react';
 import { Card } from '@/components/ui/card';
 import { InstallAppButton } from '@/components/install-app-button';
 import LanguageSwitcher from '@/components/language-switcher';
+import { ShareButton } from '@/components/share-button';
 
 interface HeaderProps {
   title: string;
@@ -29,7 +30,10 @@ export function Header({
         <div className='flex items-center gap-2'>
           <InstallAppButton />
         </div>
-        <LanguageSwitcher />
+        <div className='flex items-center gap-2'>
+          <ShareButton />
+          <LanguageSwitcher />
+        </div>
       </div>
 
       <div className='text-center relative'>
