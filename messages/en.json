@@ -77,7 +77,7 @@
     "page_info": "Page {current} of {total}",
     "table": {
       "day": "Day",
-      "fard": "Fard Prayers",
+      "fard": "Fard",
       "qiyam": "Taraweeh/Qiyam",
       "duha": "Duha",
       "rawatib": "Sunnah Rawatib",
@@ -90,7 +90,7 @@
       "feeding": "Feeding Others"
     },
     "activities": {
-      "fasting": "Fasting",
+      "fasting": "Fard",
       "qiyam": "Qiyam",
       "duha": "Duha Prayer",
       "rawatib": "Sunnah Rawatib",

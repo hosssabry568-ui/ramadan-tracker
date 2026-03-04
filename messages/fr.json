@@ -76,7 +76,7 @@
     "page_info": "Page {current} sur {total}",
     "table": {
       "day": "Jour",
-      "fard": "Prières obligatoires",
+      "fard": "Obligations",
       "qiyam": "Tarawih/Qiyam",
       "duha": "Doha",
       "rawatib": "Sunnah Rawatib",
@@ -89,7 +89,7 @@
       "feeding": "Nourrir les autres"
     },
     "activities": {
-      "fasting": "Jeûne",
+      "fasting": "Obligations",
       "qiyam": "Qiyam",
       "duha": "Prière de Doha",
       "rawatib": "Sunnah Rawatib",
