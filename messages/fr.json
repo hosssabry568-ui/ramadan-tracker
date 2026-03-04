@@ -76,11 +76,11 @@
     "page_info": "Page {current} sur {total}",
     "table": {
       "day": "Jour",
-      "fard": "Prières obligatoires",
+      "fard": "Obligations",
       "qiyam": "Tarawih/Qiyam",
       "duha": "Doha",
       "rawatib": "Sunnah Rawatib",
-      "quran": "Coran (Pages)",
+      "quran": "Coran (Ayat)",
       "dhikr_morning": "Adhkar du matin",
       "dhikr_evening": "Adhkar du soir",
       "charity": "Charité",
@@ -89,7 +89,7 @@
       "feeding": "Nourrir les autres"
     },
     "activities": {
-      "fasting": "Jeûne",
+      "fasting": "Obligations",
       "qiyam": "Qiyam",
       "duha": "Prière de Doha",
       "rawatib": "Sunnah Rawatib",
@@ -406,9 +406,20 @@
   },
   "Footer": {
     "author": "Auteur",
+    "made_by": "Réalisé par",
     "contribution": "Contribution",
     "buy_me_coffee": "Offrez-moi un café",
     "developed_by": "Développé avec",
     "portfolio": "Portfolio"
+  },
+  "Share": {
+    "button": "Partager le bien",
+    "title": "Partagez le bien avec vos proches 💚",
+    "description": "Aidez les autres à suivre leurs adorations pendant le Ramadan",
+    "hadith": "\"Celui qui guide vers le bien est comme celui qui le fait\"",
+    "hadith_source": "Rapporté par Tirmidhi",
+    "share_text": "🌙 Ramadan Tracker - Suivez vos prières, la lecture du Coran et vos bonnes actions pendant le Ramadan. Essayez-le maintenant !",
+    "copy": "Copier",
+    "copied_toast": "Lien copié dans le presse-papiers !"
   }
 }

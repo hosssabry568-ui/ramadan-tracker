@@ -77,11 +77,11 @@
     "page_info": "Page {current} of {total}",
     "table": {
       "day": "Day",
-      "fard": "Fard Prayers",
+      "fard": "Fard",
       "qiyam": "Taraweeh/Qiyam",
       "duha": "Duha",
       "rawatib": "Sunnah Rawatib",
-      "quran": "Quran (Pages)",
+      "quran": "Quran (Ayat)",
       "dhikr_morning": "Morning Adhkar",
       "dhikr_evening": "Evening Adhkar",
       "charity": "Charity",
@@ -90,7 +90,7 @@
       "feeding": "Feeding Others"
     },
     "activities": {
-      "fasting": "Fasting",
+      "fasting": "Fard",
       "qiyam": "Qiyam",
       "duha": "Duha Prayer",
       "rawatib": "Sunnah Rawatib",
@@ -407,9 +407,20 @@
   },
   "Footer": {
     "author": "Author",
+    "made_by": "Made by",
     "contribution": "Contribution",
     "buy_me_coffee": "Buy me a coffee",
     "developed_by": "Developed with",
     "portfolio": "Portfolio"
+  },
+  "Share": {
+    "button": "Share the Good",
+    "title": "Share the Good with Your Loved Ones 💚",
+    "description": "Help others track their worship during Ramadan",
+    "hadith": "\"The one who guides to good is like the one who does it\"",
+    "hadith_source": "Narrated by Tirmidhi",
+    "share_text": "🌙 Ramadan Tracker - Track your prayers, Quran reading, and good deeds during Ramadan. Try it now!",
+    "copy": "Copy",
+    "copied_toast": "Link copied to clipboard!"
   }
 }

@@ -33,7 +33,6 @@ export default function RamadanTracker() {
     [currentDuaIndex, tDuas],
   );
 
-  
   useEffect(() => {
     const now = new Date();
     const options: Intl.DateTimeFormatOptions = {
@@ -51,7 +50,6 @@ export default function RamadanTracker() {
     initializeData();
   }, [initializeData, locale]);
 
-  
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentDuaIndex((prev) => (prev + 1) % RAMADAN_DUAS.length);
