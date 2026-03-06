@@ -130,7 +130,6 @@ export default async function RootLayout({
         <meta name='mobile-web-app-capable' content='yes' />
         <meta name='application-name' content='Ramadan Tracker' />
       </head>
-      {/* Use theme token-based background and text colors on body */}
       <body className={`${tajawal.variable} font-sans bg-background text-foreground`}>
         {}
         <Script
@@ -165,7 +164,7 @@ export default async function RootLayout({
         <NextIntlClientProvider messages={messages}>
           <ThemeProvider
             attribute='class'
-            defaultTheme='system'  {/* Changed from 'light' to 'system' */}
+            defaultTheme='system'
             enableSystem
             disableTransitionOnChange
           >
